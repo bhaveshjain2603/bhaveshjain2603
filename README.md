@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 🔭 I’m currently working on JavaScript to create Functional Websites
-- 👯 I’m looking to collaborate on on Web Development projects, DevOps and Data Visualisation
+- 👯 I’m looking to collaborate on Web Development projects, DevOps and Data Visualisation
 - 🌱 I’m currently diving deep into React and MongoDB for building scalable applications.
-- 💬 Ask me about anything related to full-stack development, JavaScript frameworks, or cloud services.
+- 💬 Ask me about anything related to Full-Stack development, JavaScript frameworks, or Cloud services.
 - 📫 How to reach me: Linkedin[https://linkedin.com/in/bhavesh-s-jain-56a56a243]
 
 ## 🌐 Socials:
