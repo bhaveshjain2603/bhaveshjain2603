@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on Web Development projects, DevOps and Data Visualisation
 - 🌱 I’m currently diving deep into React and MongoDB for building scalable applications.
 - 💬 Ask me about anything related to Full-Stack development, JavaScript frameworks, or Cloud services.
-- 📫 How to reach me: Linkedin[https://linkedin.com/in/bhavesh-s-jain-56a56a243]
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-s-jain-56a56a243) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bhavesh_jain_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-s-jain-56a56a243) 
