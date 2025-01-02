@@ -1,9 +1,8 @@
 # 💫 About Me:
 - 🔭 I’m currently working on the **MERN Stack** to create Functional Websites
 - 👯 I’m looking to collaborate on **Web Development projects and DevOps.**
-- 🌱 I’m currently diving deep into **React and MongoDB** for building scalable applications.
+- 🌱 I’m currently diving deep into **React, MongoDB and Automation Tools** for building scalable applications.
 - 💬 Ask me about anything related to **Full-Stack development, JavaScript frameworks, or Cloud services.**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-s-jain-56a56a243) 
 
 ## 🌐 Socials:
 LinkedIn: https://linkedin.com/in/bhavesh-s-jain-56a56a243 
